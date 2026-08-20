@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QualityInspectionTracker.API/QualityInspectionTracker.API.csproj" />
+  <Project Path="QualityInspectionTracker.Application/QualityInspectionTracker.Application.csproj" />
+  <Project Path="QualityInspectionTracker.Domain/QualityInspectionTracker.Domain.csproj" />
+  <Project Path="QualityInspectionTracker.Infrastructure/QualityInspectionTracker.Infrastructure.csproj" />
+</Solution>

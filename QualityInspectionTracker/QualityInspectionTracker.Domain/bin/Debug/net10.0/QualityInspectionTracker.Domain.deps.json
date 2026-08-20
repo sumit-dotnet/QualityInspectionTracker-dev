@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "QualityInspectionTracker.Domain/1.0.0": {
+        "runtime": {
+          "QualityInspectionTracker.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QualityInspectionTracker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
